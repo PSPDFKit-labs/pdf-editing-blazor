@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/obj/Debug/net7.0/scopedcss/projectbundle/EditPDFBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets/EditPDFBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/document.pdf",
+      "PackagePath": "staticwebassets/document.pdf"
+    },
+    {
+      "Id": "/Users/hulyakarakaya/Projects/EditPDFBlazor/EditPDFBlazor/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.EditPDFBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.EditPDFBlazor.props",
+      "PackagePath": "build\\EditPDFBlazor.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.EditPDFBlazor.props",
+      "PackagePath": "buildMultiTargeting\\EditPDFBlazor.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.EditPDFBlazor.props",
+      "PackagePath": "buildTransitive\\EditPDFBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+﻿@page "/"
+@inject PdfEditor pdfEditor
+
+<button class="btn btn-primary" @onclick="EditPdfDocument">Edit PDF</button>
+
+@code {
+    private void EditPdfDocument()
+    {
+        pdfEditor.EditPdf("wwwroot/document.pdf"); // Add your PDF file to the wwwroot directory
+    }
+}
