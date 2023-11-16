@@ -33,7 +33,7 @@ git clone https://github.com/PSPDFKit-labs/pdf-editing-blazor.git
 ## Usage
 The application demonstrates basic PDF editing:
 
-- A predefined PDF file ([wwwroot/document.pdf]()) is edited when the user clicks the 'Edit PDF' button.
+- A predefined PDF file ([wwwroot/document.pdf](https://github.com/PSPDFKit-labs/pdf-editing-blazor/blob/master/wwwroot/document.pdf)) is edited when the user clicks the 'Edit PDF' button.
 - The `PdfEditor` class adds specified text to the first page of the PDF.
 - Feel free to modify the PDF path and the editing logic in the `PdfEditor` class to explore further functionalities of PDFsharp.
 
